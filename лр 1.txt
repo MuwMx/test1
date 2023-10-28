@@ -13,3 +13,5 @@ int main()
 	cout << "*";
 	cout << '\t' << "String" << '\n' << noshowpos << 1 << endl;
 }
+
+код з першої лр по опі
